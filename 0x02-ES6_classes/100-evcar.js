@@ -20,4 +20,4 @@ class EVCar extends Car {
   }
 }
 
-export default Car;
+export default EVCar;
